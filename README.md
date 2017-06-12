@@ -17,4 +17,4 @@ This return a numpy array with each position like this:
 With the x_axis the top left point.
 and y_axis the top left point too.
 
-I use this coordinates to write a rectangle to expose the detection area, but think in the possibilities, they're awelsome! :')
+I use this coordinates to write a rectangle to expose the detection area, but think in the possibilities, they're awesome! :')
